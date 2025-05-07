@@ -214,7 +214,7 @@ Aplikasi menggunakan database MySQL dengan struktur berikut:
 2. **Langkah Instalasi**
    ```
    # Klon repositori
-   git clone https://github.com/username/local-farmer-connect.git
+   git clone https://github.com/KittodGG/local-farmer-connect.git
    
    # Masuk ke direktori
    cd local-farmer-connect
@@ -249,4 +249,4 @@ Aplikasi menggunakan database MySQL dengan struktur berikut:
 
 ---
 
-© 2023 Local Farmer Connect. Dibuat dengan ❤️ untuk mendukung petani lokal. 
+© 2023 Local Farmer Connect. Dibuat dengan ❤️oleh Kitna M. F. untuk mendukung petani lokal. 
